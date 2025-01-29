@@ -1,0 +1,12 @@
+# creds in bash
+export GOOGLE_CREDENTIALS='/C:/Users/Piotr/Documents/data-engineering-zoo
+mcamp/01-docker-terraform/terraform/keys/my-creds.json'
+
+#format
+terraform fmt
+
+terraform plan
+
+terraform apply
+
+terraform destroy
