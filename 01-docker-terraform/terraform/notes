@@ -2,6 +2,8 @@
 export GOOGLE_CREDENTIALS='/C:/Users/Piotr/Documents/data-engineering-zoo
 mcamp/01-docker-terraform/terraform/keys/my-creds.json'
 
+unset GOOGLE_CREDENTIALS
+
 #format
 terraform fmt
 
