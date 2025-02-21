@@ -11,7 +11,7 @@ sources:
     
 models:
   - name: stg_yellow_tripdata
-    description: ""
+    description: "Staging yellow tripdata"
     columns:
       - name: tripid
         data_type: string
