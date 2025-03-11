@@ -2,3 +2,10 @@
 01-docker-terraform/docker/ny_taxi_postgres_data/
 01-docker-terraform/ny_taxi_postgres_data/
 02-workflow-orchestration/postgres_data/
+*.csv
+*.parquet
+*.crc
+*_SUCCESS
+*.gz
+*.env
+*.ipynb_checkpoints/
